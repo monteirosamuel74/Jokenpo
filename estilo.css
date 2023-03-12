@@ -14,6 +14,12 @@ section{
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.45);
 }
+div#jogo{
+    text-align: center;
+}
+div#res{
+    text-align: center;
+}
 footer{
     color: white;
     text-align: center;
