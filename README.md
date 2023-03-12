@@ -9,3 +9,7 @@ O jogo precisa atender a seguinte regra básica:
 4-Tesoura vence o papel, mas perde para pedra.
 
 O objetivo desse projeto é treinar a linguagem.
+
+Obs: Jogo está funcional, mas precisa atualizar a página para realizar nova partida.
+Sugestão próxima etapa:
+  *Criar botão para reiniciar, ou realizar novo jogo a cada escolha.
